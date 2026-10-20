@@ -25,7 +25,12 @@ The initial version focuses on food pre-ordering and pickup. Online payment and 
 
 ## Team
 
-SE-2416 — Astana IT University
+Altynay Yertay — Scrum Master — 240782@astanait.edu.kz
+Yerulan Tleu — Product Owner — 242396@astanait.edu.kz
+Alikhan Sekenov — Developer — 240396@astanait.edu.kz
+Ayauzhan Baurzhanova — Developer — 241614@astanait.edu.kz
+Akhmet Zhaksybay — Developer — 241371@astanait.edu.kz
+
 
 ## Project Management
 
